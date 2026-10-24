@@ -1,0 +1,8 @@
+{
+  "name": "BuildCraft Hardware ERP & POS",
+  "description": "Specialized inventory, point-of-sale, supplier & client statements, daily reconciliation, and profit & loss system for construction materials and hardware shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
